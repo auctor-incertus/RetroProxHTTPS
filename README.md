@@ -65,8 +65,8 @@ from the browser's certificate store.
 
 ## Demonstration
 
-![https://spacejam.com/1996 working on Internet Explorer 5.5 using RetroProxHTTPS in Windows 95](images/screenshot.png)
-https://spacejam.com/1996 working on Internet Explorer 5.5 using RetroProxHTTPS in Windows 95
+![image](screenshot.png)
+Wikipedia on Internet Explorer 5.5 / Windows 95
 
 ## Target requirements
 
